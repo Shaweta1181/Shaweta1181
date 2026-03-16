@@ -23,11 +23,8 @@
 
 ## 📂 Projects
 - Sales Data Analysis  
-- Random Password Generator  
-- Tic Tac Toe Game  
+- Random Password Generator
+- Command-line Weather app
+- To-Do List
 
 ---
-
-## 🌐 Connect With Me
-LinkedIn  
-Email
