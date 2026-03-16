@@ -1,4 +1,4 @@
-# Hi, I'm Shweta 👋
+# Hi, I'm Shaweta 👋
 
 🎓 B.Tech Student  
 📊 Interested in Business Analyst & Data Analyst roles  
